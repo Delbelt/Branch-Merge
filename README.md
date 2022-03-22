@@ -1,4 +1,4 @@
-Testing "branch and merge" on Github for learning them
+Testing "branch and merge" on Github for learning them and share!
 
 step one: git branch nameBranch > create a new branch
 step two: git checkout nameBranch > choose the branch you are going to use
