@@ -1,0 +1,8 @@
+# Ignora el archivo - es necesario el formato:
+texto.txt
+
+# Ignora todos los archivos que empiecen con nombre:
+nombre*
+
+# Ignora todos los archivos que terminen con .txt
+*.txt
